@@ -1,6 +1,3 @@
-# learning python
-
-
 # Python Concepts
 
 ## 1. Introduction to Python
